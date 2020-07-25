@@ -8,6 +8,9 @@ black = "*"
 pylint = "*"
 
 [packages]
+requests = "*"
+bs4 = "*"
+lxml = "*"
 
 [requires]
 python_version = "3.8"
