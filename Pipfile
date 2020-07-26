@@ -9,10 +9,9 @@ pylint = "*"
 
 [packages]
 requests = "*"
-bs4 = "*"
 lxml = "*"
-telegram = "*"
 python-dotenv = "*"
+python-telegram-bot = "*"
 
 [requires]
 python_version = "3.8"
