@@ -11,7 +11,7 @@ pylint = "*"
 requests = "*"
 bs4 = "*"
 lxml = "*"
-python-dotenv = "*"
+telegram = "*"
 
 [requires]
 python_version = "3.8"
